@@ -110,16 +110,19 @@ Agent confirms with reference number
 ```
 
 ## Validation Rules
-
+```
 - Session ID cannot be empty
 - Message cannot be empty
 - Maximum 8 people per table
+```
 
 ## Restaurant Information
+```
 Name:          Bella Italia
 Location:      Astoria, New York
 Opening Hours: 12 PM to 11 PM
 Phone:         123-456-7890
+```
 
 ## Environment Variables
 API_KEY=your_groq_api_key_here
